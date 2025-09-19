@@ -32,13 +32,6 @@ I’m passionate about building intelligent systems that **automate workflows, e
 
 ---
 
-## 📈 GitHub Stats  
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityachoukade&show_icons=true&theme=tokyonight)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityachoukade&theme=tokyonight)  
-
----
-
 ## 🌐 Let’s Connect  
 💼 [LinkedIn](https://linkedin.com/in/aaditya-choukade)  
 🐦 [X (Twitter)](https://x.com/aadityachoukade)   
