@@ -1,10 +1,48 @@
-- 👋 Hi, I’m @aadi-dev07
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning SQL and Python
-- 💞️ I’m looking to collaborate on Data Science
-- 📫 How to reach me  @aadi-dev07
+# 👋 Hi, I'm Aditya Choukade  
 
-<!---
-aadi-dev07/aadi-dev07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💡 **AI & ML Developer | AI Automation Engineer | AI Agent Builder**  
+I’m passionate about building intelligent systems that **automate workflows, enhance business efficiency, and solve real-world problems with AI**.  
+
+---
+
+## 🔥 About Me  
+- 🎓 Computer Science Engineer | Strong background in **Data Science, Machine Learning & AI Automation**  
+- 🤖 Built **200+ AI Agents & Workflows** using tools like **n8n, CrewAI, Viasocket, Lyzr.ai, RelevanceAI**  
+- 📞 Specialized in **Voice & Chat Agents** (Vapi.ai, 11Labs, Retell AI, Voiceflow)  
+- 🧠 Skilled in **RAG pipelines, MCP, and Agentic AI** for scalable AI-driven solutions  
+- 🏆 Winner – **GenAI Buildathon (Indore)** with *Team Flowgrammers*  
+
+---
+
+## 🛠️ Tech & Tools  
+- **Programming & Data**: Python, JavaScript, SQL, Pandas, NumPy, Scikit-learn  
+- **AI & Automation**: n8n, CrewAI, Make, Zapier, Viasocket, MCP  
+- **Voice AI**: Vapi.ai, 11Labs, Retell AI  
+- **Cloud & Databases**: Supabase, PostgreSQL, Firebase, GCP, AWS  
+- **Other**: RAG Agents, Vector Databases, API Integrations  
+
+---
+
+## 🚀 Featured Projects  
+- 🧩 **AutoVerse** – One-stop platform for exploring, deploying, and monetizing AI agents (🏆 Buildathon Winner)  
+- 📩 **AI-powered LinkedIn Inbox Automation** – Smart networking with automated responses  
+- 📊 **Data Analyst Agent for E-commerce** – Query sales/refund data directly via WhatsApp/Chat  
+- 📞 **AI Voice Call Agent** – Multilingual cold-calling bot using Vapi.ai + 11Labs  
+- 👥 **AI-powered HR Workflow** – Automated resume parsing & candidate analysis  
+
+---
+
+## 📈 GitHub Stats  
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityachoukade&show_icons=true&theme=tokyonight)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityachoukade&theme=tokyonight)  
+
+---
+
+## 🌐 Let’s Connect  
+💼 [LinkedIn](https://linkedin.com/in/aaditya-choukade)  
+🐦 [X (Twitter)](https://x.com/aadityachoukade)   
+
+---
+
+✨ *“AI Agents that do the work—so you don’t have to.”*  
